@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digikala.com (replica)<br>🌱 I’m currently learning JS<br>
+🔭 I’m currently working on my final project for front-end course<br>🌱 I’m currently learning JS/React<br>
 
 
 ## 🌐 Socials:
