@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final project for my front-end course<br>🌱 I’m currently learning JS/React<br>
+🔭 I’m currently working on several projects to further my skills<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
